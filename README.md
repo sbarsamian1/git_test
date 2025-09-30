@@ -1,2 +1,2 @@
 # git_test
-ODIN Project
+ODIN Project - working with commits
